@@ -1,0 +1,3 @@
+out/*
+build/*
+src/CMakeLists.txt.user
